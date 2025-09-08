@@ -16,3 +16,6 @@ __pycache__/
 metrics_service/data/norsk_ordbank/*.tar.gz
 metrics_service/data/norsk_ordbank/fullformsliste.txt
 
+benchmark_service/data/eutanasi1.pdf 
+benchmark_service/data/eutanasi2.pdf
+benchmark_service/data/parse_pdfs.py
