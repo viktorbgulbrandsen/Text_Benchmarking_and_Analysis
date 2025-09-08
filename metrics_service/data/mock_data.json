@@ -1,0 +1,122 @@
+{
+  "students": [
+    {
+      "student_id": "1001",
+      "texts": [
+        {
+          "text_id": "essay_001",
+          "text": "Klimaendringer er et stort problem som påvirker hele verden. Isen på Nordpolen og Antarktis smelter mye raskere enn før, og dette fører til at havnivået stiger. Isbjørn mister leveområdene sine og mange andre dyr sliter også. Ekstremvær som orkaner, tørke og flom blir vanligere. Vi må slutte å bruke så mye fossil energi og gå over til fornybar energi som sol og vind. Alle land må samarbeide for å løse dette problemet. Det er viktig at vi handler nå før det er for sent. Hvis vi ikke gjør noe, vil fremtidige generasjoner få store problemer."
+        }
+      ]
+    },
+    {
+      "student_id": "1002", 
+      "texts": [
+        {
+          "text_id": "essay_002",
+          "text": "teknologi har helt endra hvordan vi lever. mobilen er blitt så viktig at mange ikke klarer å leve uten den. facebook, instagram og tiktok gjør at vi snakker med folk over alt i verden. men det er også negativt. mange blir avhengige av sosiale medier og får angst hvis de ikke får likes. mobbing på nett er også et stort problem, spesielt blant ungdom. mange får dårlig selvfølelse når de sammenligner seg med andre på bildene. det er viktig å huske at bildene på sosiale medier ikke alltid viser sannheten."
+        },
+        {
+          "text_id": "essay_003",
+          "text": "Norge har virkelig fantastisk natur med høye fjell, dype fjorder og vakre strender. Tusenvis av turister kommer hit hver sommer for å oppleve Geiranger, Flåm, Lofoten og Nordkapp. Turismen bringer inn mange milliarder kroner til norsk økonomi og skaper arbeidsplasser i distriktene. Men det skaper også problemer med trafikk og forurensning på de mest populære stedene. Cruiseskip forurenser lufta i fjordene, og mange steder blir overbelastet med turister. Vi må finne en balanse mellom å tjene penger på turisme og å ta vare på naturen for fremtidige generasjoner."
+        }
+      ]
+    },
+    {
+      "student_id": "1003",
+      "texts": [
+        {
+          "text_id": "essay_004", 
+          "text": "Utdanning er grunnlaget for et godt samfunn og alle burde ha like muligheter til å lære. I Norge har vi gratis utdanning fra barneskole til universitet, noe som er unikt i verden. Dette betyr at alle barn kan få utdanning uansett hvor mye penger foreldrene har. Men det er fortsatt utfordringer. Mange elever sliter med lesing og skriving, og det er store forskjeller mellom skoler i rike og fattige områder. Lærere har for mye å gjøre og får ikke nok tid til hver elev. Digital teknologi kan hjelpe med læringen, men alle må ha tilgang til datamaskiner og internett hjemme."
+        }
+      ]
+    },
+    {
+      "student_id": "1004",
+      "texts": [
+        {
+          "text_id": "essay_005",
+          "text": "Mat og kultur henger tett sammen og forteller mye om hvordan folk lever. Tradisjonell norsk mat som fårikål, kjøttkaker, lutefisk og lefse kommer fra gamle tradisjoner når folk måtte overleve lange, kalde vintre. Mange av disse rettene bruker ingredienser som kunne oppbevares lenge uten kjøleskap. I dag spiser nordmenn mye mer internasjonalt - pizza, sushi, taco og indisk mat er blitt helt vanlig. Dette viser hvordan Norge har blitt et flerkulturelt samfunn. Samtidig er det viktig å bevare de gamle tradisjonene så fremtidige generasjoner kan lære om sin kulturarv."
+        },
+        {
+          "text_id": "essay_006", 
+          "text": "Idrett betyr masse for nordmenn og spesielt vinteridretter. Langrenn, hopp, alpint og skiskyting er idretter hvor Norge ofte vinner i OL og VM. Dette kommer av at vi har snø og fjell og en lang tradisjon med å gå på ski. Mange barn lærer å gå på ski nesten før de kan gå ordentlig. Men det er ikke bare vinteridretter - fotball er den mest populære idretten blant barn og unge. Norge har også flinke håndballspillere og svømmere. Idrett lærer barn viktigheter som teamarbeid, disiplin og å ikke gi opp når ting blir vanskelig."
+        },
+        {
+          "text_id": "essay_007",
+          "text": "fornybar energi som sol, vind og vann kan redde klima. norge har mykje regnande og store elver så vi produsere det meste av strømmen vår fra vasskraft. dette er miljøvennlig og billig. vindkraft blir ogso meir vanlig spesielt langs kysten hvor det blæser mykje. solcellepanel blir billigere og fungere bra sjølv i nord-norge. problemet er at vi må ha batterier for å lagre energi når det ikkje blæser eller regner. regjeringa må investere meir pengar i desse teknologiane så vi kan slutte å bruke olje og gass."
+        },
+        {
+          "text_id": "essay_008",
+          "text": "Miljøvern og økonomi må gå hand i hand for å skape en bærekraftig fremtid. Mange bedrifter tror at miljøtiltak koster for mye penger, men forskning viser at det ofte er lønnsomt på lang sikt. Grønne arbeidsplasser innen fornybar energi, resirkulering og miljøteknologi skaper nye jobber og reduserer forurensning samtidig. Forbrukere må også ta ansvar ved å kjøpe mindre, reparere ting i stedet for å kaste, og velge produkter fra bedrifter som tar miljøhensyn. Regjeringen må lage lover som gjør det dyrere å forurense og billigere å være miljøvennlig."
+        }
+      ]
+    },
+    {
+      "student_id": "1005",
+      "texts": [
+        {
+          "text_id": "essay_009",
+          "text": "Byer vokser fort og skaper mange problem. flere folk flytter til oslo, bergen, trondheim og stavanger for å få jobb. dette fører til at huspriser blir høye og mange unge har ikke råd til å kjøpe bolig. trafikken blir verre og lufta mer forurenset. kollektivtransport som trikk, buss og tog må bli bedre så folk ikke trenger bil. det er også viktig å bygge flere boliger som folk har råd til. parker og grønne områder må bevares så folk har steder å slappe av."
+        }
+      ]
+    },
+    {
+      "student_id": "1006",
+      "texts": [
+        {
+          "text_id": "essay_010",
+          "text": "Psykisk helse blant ungdom er et økende problem som krever mer oppmerksomhet fra samfunnet. Mange unge sliter med angst, depresjon og spiseforstyrrelser, delvis på grunn av press fra sosiale medier og konkurranse om karakterer. Skolen bør ha bedre tilbud av rådgivere og psykologer som kan hjelpe elever som strever. Foreldrene må også lære å gjenkjenne tegn på psykiske problemer og ikke være redde for å søke hjelp. Samfunnet må bli flinkere til å snakke åpent om psykisk helse slik at det ikke lenger er skambelagt å få behandling."
+        },
+        {
+          "text_id": "essay_011",
+          "text": "jeg liker å lese bøker. bøker er bra fordi du lærer mye. min favorittbok handler om en gutt som bor på en øy. han finner en skatt og blir rik. jeg vil også finne en skatt. lesing gjør at du blir smartere og får bedre fantasin. læreren sier vi må lese mer og mindre mobil."
+        }
+      ]
+    },
+    {
+      "student_id": "1007",
+      "texts": [
+        {
+          "text_id": "essay_012",
+          "text": "Integrering av innvandrere i det norske samfunnet krever innsats fra både majoritetsbefolkningen og de som kommer hit. Språkopplæring er grunnleggende viktig - uten å kunne norsk blir det vanskelig å få jobb, forstå kulturelle normer og delta i samfunnslivet. Samtidig må nordmenn være mer åpne og inkluderende i stedet for å danne separate miljøer. Arbeidsplasser må gi like muligheter uavhengig av navn og bakgrunn. Mangfold beriker samfunnet vårt med nye perspektiver, mat, musikk og tradisjoner, men det krever at alle jobber sammen for at integreringen skal lykkes."
+        }
+      ]
+    },
+    {
+      "student_id": "1008",
+      "texts": [
+        {
+          "text_id": "essay_013",
+          "text": "film og tv-serier påvirker unge folk mye. vi ser på netflix, disney+ og andre strømmetjenester hele tiden. noen filmer lærer oss om historie og andre kulturer mens andre bare er underholdning. men mange filmer viser vold og det kan være dårlig for barn. foreldre burde passe mer på hva barna ser på. norske filmer og serier blir stadig bedre og konkurrerer med hollywood. det er viktig at vi støtter norsk filmkunst."
+        },
+        {
+          "text_id": "essay_014",  
+          "text": "Arbeidslivet endrer seg raskt på grunn av automatisering og kunstig intelligens. Mange jobber som finnes i dag vil forsvinne om 10-20 år når roboter og dataprogrammer kan gjøre samme arbeid billigere og mer effektivt. Dette gjelder spesielt rutinearbeid innen transport, produksjon og kontortjenester. Samtidig skapes det nye jobber innen teknologi, helse og kreative yrker som krever uniquely menneskelige ferdigheter. Utdanningssystemet må tilpasses for å forberede studenter på denne nye arbeidsmarkedsrealiteten med mer fokus på kritisk tenkning, kreativitet og evnen til livslang læring."
+        }
+      ]
+    },
+    {
+      "student_id": "1009",
+      "texts": [
+        {
+          "text_id": "essay_015",
+          "text": "jeg har en hund som heter Max. han er brun og stor. vi går tur hver dag i skogen. Max liker å løpe og leke. han spiser hundemat og godbit. noen ganger bader vi ham. alle i familien er glade i Max. hunder er snille dyr som passer på huset."
+        }
+      ]
+    },
+    {
+      "student_id": "1010",
+      "texts": [
+        {
+          "text_id": "essay_016",
+          "text": "Demokrati og samfunnsengasjement er fundamentale verdier som må vernes om og utvikles kontinuerlig. I en tid preget av polarisering og misinformasjon blir det enda viktigere at borgere engasjerer seg aktivt i politiske prosesser og samfunnsdebatter. Valg alene er ikke tilstrekkelig - demokrati krever at folk deltar i organisasjoner, følger med på lokalpolitikk og bidrar konstruktivt til diskusjoner om samfunnets utvikling. Sosiale medier kan både styrke og svekke demokratiet avhengig av hvordan de brukes. Kritisk tenkning og kildevurdering blir essensielle ferdigheter for alle borgere i et fungerende demokrati."
+        },
+        {
+          "text_id": "essay_017",
+          "text": "Bærekraftig landbruk og matproduksjon blir stadig viktigere ettersom verdens befolkning vokser og klimaendringene skaper nye utfordringer. Norsk landbruk må finne balansen mellom å produsere nok mat til befolkningen, ta vare på miljøet og gi bøndene en levelig økonomi. Økologisk landbruk reduserer bruken av kunstgjødsel og plantevernmidler, men gir ofte lavere avlinger. Ny teknologi som presisjonsjordbruk og vertikalt jordbruk kan øke produktiviteten samtidig som miljøbelastningen reduseres. Forbrukerne må også ta ansvar ved å spise mer plantebasert mat og redusere matsvinn."
+        }
+      ]
+    }
+  ]
+}

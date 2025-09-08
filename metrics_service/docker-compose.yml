@@ -1,0 +1,12 @@
+version: '3.8'
+
+services:
+  text-analysis:
+    build: .
+    ports:
+      - "8001:8001"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - PYTHONPATH=/app
+    restart: unless-stopped

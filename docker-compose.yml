@@ -1,0 +1,30 @@
+version: '3.8'
+
+services:
+  metrics_service:
+    build: ./metrics_service
+    ports:
+      - "8001:8001"
+    networks:
+      - text_analysis
+
+  benchmark_service:
+    build: ./benchmark_service
+    ports:
+      - "8002:8002"
+    networks:
+      - text_analysis
+
+  orchestrator_service:
+    build: ./orchestrator_service
+    ports:
+      - "8003:8003"
+    depends_on:
+      - metrics_service
+      - benchmark_service
+    networks:
+      - text_analysis
+
+networks:
+  text_analysis:
+    driver: bridge

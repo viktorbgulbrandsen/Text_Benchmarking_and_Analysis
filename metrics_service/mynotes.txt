@@ -1,0 +1,14 @@
+docker compose up
+
+http://127.0.0.1:8000/compute
+
+
+docker-compose down --volumes --remove-orphans
+
+docker-compose up --build
+
+Postman:
+
+POST : http://127.0.0.1:8000/compute
+
+

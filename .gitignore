@@ -1,0 +1,18 @@
+.venv/
+venv/
+env/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+
+.env
+.env.local
+
+
+# norske ordbank can be downloaded
+metrics_service/data/norsk_ordbank/*.tar.gz
+metrics_service/data/norsk_ordbank/fullformsliste.txt
+
