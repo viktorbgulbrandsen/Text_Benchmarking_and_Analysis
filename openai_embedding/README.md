@@ -1,6 +1,7 @@
 Simple code which uses openai embed and scikit-learn compute cosine similarity. 
 
 Test run: 
+
 {
     "status": "ok",
     "result": {
