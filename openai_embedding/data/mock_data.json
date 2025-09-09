@@ -1,0 +1,13 @@
+{
+  "student_id": "101",
+  "benchmark": {
+    "benchmark_id": "bmk_101",
+    "benchmark_text": "This is the benchmark written by student 101."
+  },
+  "texts": [
+    {
+      "text_id": "essay_001",
+      "text": "Some later writing by the same student."
+    }
+  ]
+}
