@@ -15,6 +15,13 @@ services:
     networks:
       - text_analysis
 
+  openai_embedding:
+    build: ./openai_embedding
+    ports:
+      - "8004:8004"
+    networks:
+      - text_analysis
+
   orchestrator_service:
     build: ./orchestrator_service
     ports:
